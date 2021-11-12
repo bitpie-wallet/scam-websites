@@ -8,3 +8,4 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 - bitpie.im
 - otcbidding.com
 - ximiyu.cn
+- bltpie.com
