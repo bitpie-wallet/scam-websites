@@ -4,8 +4,15 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 
 以下是已知的以 Bitpie 用户为目标的诈骗网站。访问这些网站，从这些网站下载 App，提供助记词或私钥给这些网站都会导致您的资产损失。请避免访问列表中的网站。我们会持续更新此列表。
 
+- bitpie118.com
+- bitpie.org
+- bitpie168.vip 
+- bitpie18.com
 - bitpei.com
 - bitpie.im
+- appbitpie.com
+- cnbitpie.com
 - otcbidding.com
+- bitepai.pro
 - ximiyu.cn
 - bltpie.com
