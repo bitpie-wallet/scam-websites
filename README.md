@@ -6,10 +6,10 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 
 | Domain 域名    |  IP          |
 | ------------- | ------------- |
-| bitpie118.com | 194.56.77.186 |
-| bitpie.org | 78.41.204.36 |
-| bitpie168.vip | 75.2.18.233 |
-| bitpie18.com | 192.177.59.12 |
+| bitpie118.com | - |
+| bitpie.org | - |
+| bitpie168.vip | - |
+| bitpie18.com | - |
 | bitpei.com | 45.116.144.19 |
 | bitpie.im | 20.194.42.28 |
 | appbitpie.com | 103.125.85.230 |
