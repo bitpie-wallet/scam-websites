@@ -17,3 +17,15 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 - ximiyu.cn
 - bltpie.com
 - btp98.com
+
+# Announcements 公告
+
+- https://bitpie.com/newsMessage?id=118
+- https://bitpie.com/newsMessage?id=135
+
+# News 媒体报道
+
+- https://www.jinse.com/news/blockchain/1125264.html
+- https://www.theblockbeats.com/flash/16467?search=1
+- https://bihu.com/article/1387737215
+- https://bihu.com/article/1059359031
