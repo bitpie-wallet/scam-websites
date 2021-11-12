@@ -16,3 +16,4 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 - bitepai.pro
 - ximiyu.cn
 - bltpie.com
+- btp98.com
