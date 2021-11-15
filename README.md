@@ -21,7 +21,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bltpie.com |  116.213.43.170 | 
 | btp98.com | 103.246.113.84 |
 | wvvw-bitpie.com | 198.2.236.56 |
-| hnb.fadas2016.cn | 47.242.112.178 ｜ 
+| hnb.fadas2016.cn | 47.242.112.178 ｜
 
 
 # Announcements 公告
