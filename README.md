@@ -22,6 +22,8 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | btp98.com | 103.246.113.84 |
 | wvvw-bitpie.com | 198.2.236.56 |
 | hnb.fadas2016.cn | 47.242.112.178 |
+| 51quanyi.cn | 8.210.117.174 |
+| bitpie.qinianyun.cn | 121.201.40.49 |
 
 
 # Announcements 公告
