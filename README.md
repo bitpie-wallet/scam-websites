@@ -29,6 +29,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitpir.com | 47.243.112.101 |
 | bitpiezh.cn | 47.243.117.119 |
 | bitpie.hsxzjx.com | - |
+| bitpie1.com | 47.242.114.240 |
 
 # Announcements 公告
 
