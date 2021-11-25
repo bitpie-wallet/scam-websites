@@ -28,6 +28,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | lyjhsb.com | 47.242.63.249 |
 | bitpir.com | 47.243.112.101 |
 | bitpiezh.cn | 47.243.117.119 |
+| bitpie.hsxzjx.com | - |
 
 # Announcements 公告
 
