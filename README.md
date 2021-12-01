@@ -31,6 +31,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitpie.hsxzjx.com | - |
 | bitpie1.com | 47.242.114.240 |
 | bt.app-bitpie.vip | 47.242.112.178 |
+| lmxseo.cn | 47.242.63.249 |
 
 # Announcements 公告
 
