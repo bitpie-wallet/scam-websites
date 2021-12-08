@@ -34,6 +34,8 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | lmxseo.cn | 47.242.63.249 |
 | app-bitpie.cc | 47.242.112.178 |
 | bitpie.top | 8.210.195.149 | 
+| bit-pie.cn | 47.243.192.51 | 
+| bitoken.com.cn | 47.243.117.119 |
 
 # Announcements 公告
 
