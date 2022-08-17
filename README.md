@@ -38,6 +38,10 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitoken.com.cn | 47.243.117.119 |
 | bitepie.buzz | 104.21.25.200 172.67.134.134 cloudflare |
 | bltple.com | 172.67.165.101 104.21.81.225 cloudflare | 
+| wap.hfyjy.net | 154.95.156.251 Cloudinnovation |
+| m.z4z4.com | 47.111.174.214 aliyun |
+| bit-pie13.com | 199.60.103.216 |
+| ynyplqz.com | 104.21.94.246 172.67.141.248 cloudflare |
 
 
 # Announcements 公告
