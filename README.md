@@ -42,6 +42,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | m.z4z4.com | 47.111.174.214 aliyun |
 | bit-pie13.com | 199.60.103.216 |
 | ynyplqz.com | 104.21.94.246 172.67.141.248 cloudflare |
+| bitpiezh.com.cn | 118.107.246.77 |
 
 
 # Announcements 公告
