@@ -43,6 +43,8 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bit-pie13.com | 199.60.103.216 |
 | ynyplqz.com | 104.21.94.246 172.67.141.248 cloudflare |
 | bitpiezh.com.cn | 118.107.246.77 |
+| btpnft.ai | 172.67.170.74 104.21.71.87 cloudflare |
+| biteipai.com | 104.21.37.158 172.67.210.85 cloudflare | 
 
 
 # Announcements 公告
