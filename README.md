@@ -47,6 +47,10 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | biteipai.com | 104.21.37.158 172.67.210.85 cloudflare | 
 | bit-pie77.com | 35.73.182.206 aws | 
 | qedna.yljdkj.com | 45.204.127.220 45.204.126.78 | 
+| bap-cha.org.cn | 160.124.108.83 |
+| shzmqcqy.com | 107.151.66.50 | 
+| hnsbse.com | 160.124.108.103 | 
+| bitpie-aa.moe | 182.16.18.44 |
 
 
 # Announcements 公告
