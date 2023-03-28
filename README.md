@@ -51,6 +51,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | shzmqcqy.com | 107.151.66.50 | 
 | hnsbse.com | 160.124.108.103 | 
 | bitpie-aa.moe | 182.16.18.44 |
+| bitpie-db.biz | 182.16.18.44 |
 
 
 # Announcements 公告
