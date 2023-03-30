@@ -53,6 +53,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitpie-aa.moe | 182.16.18.44 |
 | bitpie-db.biz | 182.16.18.44 |
 | cjqmkb.com | 91.221.116.174 206.119.114.216 c6c9fadb.cjqmkb.com.cname.hcnamecdn.com | 
+| wap.gtsyzx.cn | 107.151.66.53 | 
 
 
 # Announcements 公告
