@@ -56,6 +56,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | wap.gtsyzx.cn | 107.151.66.53 | 
 | bitpieo.org | 103.86.67.244 |
 | wenzhouyuhai.com | 107.151.66.49 |
+| m.lznjyy0772.com | 107.151.66.47 |
 
 
 # Announcements 公告
