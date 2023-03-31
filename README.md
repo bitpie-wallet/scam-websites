@@ -55,6 +55,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | cjqmkb.com | 91.221.116.174 206.119.114.216 c6c9fadb.cjqmkb.com.cname.hcnamecdn.com | 
 | wap.gtsyzx.cn | 107.151.66.53 | 
 | bitpieo.org | 103.86.67.244 |
+| wenzhouyuhai.com | 107.151.66.49 |
 
 
 # Announcements 公告
