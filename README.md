@@ -58,6 +58,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | wenzhouyuhai.com | 107.151.66.49 |
 | m.lznjyy0772.com | 107.151.66.47 |
 | bitpie-ab.moe | 172.67.193.187 104.21.12.69 cloudflare |
+| bittpie.info | 193.200.149.198 | 
 
 
 # Announcements 公告
