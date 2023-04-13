@@ -63,6 +63,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitepieo.net | 103.86.67.243 |
 | mywkh.cn | 160.124.108.93 |
 | bitpie-bpt.com | - |
+| bitpice.org | - |
 
 # Announcements 公告
 
