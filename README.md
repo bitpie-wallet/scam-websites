@@ -62,6 +62,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitpie-aa.net | 104.21.38.84 172.67.220.198 cloudflare | 
 | bitepieo.net | 103.86.67.243 |
 | mywkh.cn | 160.124.108.93 |
+| bitpie-bpt.com | - |
 
 # Announcements 公告
 
