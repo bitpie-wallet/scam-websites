@@ -65,6 +65,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitpie-bpt.com | - |
 | bitpice.org | - |
 | edius.cn | 38.238.83.158 | 
+| kfvf.0577ruijing.com | 107.151.66.62 |
 
 # Announcements 公告
 
