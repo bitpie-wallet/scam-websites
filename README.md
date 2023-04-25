@@ -68,6 +68,9 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | kfvf.0577ruijing.com | 107.151.66.62 |
 | bi-tpie8.com | 122.10.11.237 |
 | bitepieo.com |  |
+| wugezhizhi.com | 156.234.192.78 |
+| jlm.0577ruijing.com | 206.119.108.251 206.119.114.246 |
+| jzww.0577ruijing.com | 206.119.108.251 206.119.114.246 |
 
 # Announcements 公告
 
