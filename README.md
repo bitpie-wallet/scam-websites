@@ -72,6 +72,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | jlm.0577ruijing.com | 206.119.108.251 206.119.114.246 |
 | jzww.0577ruijing.com | 206.119.108.251 206.119.114.246 |
 | caidacun.com | 103.59.145.3 | 
+| 88yxs.com | 154.80.163.12 |
 
 # Announcements 公告
 
