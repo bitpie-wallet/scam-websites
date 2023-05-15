@@ -74,6 +74,8 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | caidacun.com | 103.59.145.3 | 
 | 88yxs.com | 154.80.163.12 |
 | wenmingmingxi.com | 118.107.246.77 | 
+| jssyjj.cn | 45.207.56.47 | 
+| sdvoto.cn | 43.159.201.96 |
 
 # Announcements 公告
 
