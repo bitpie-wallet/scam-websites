@@ -76,6 +76,8 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | wenmingmingxi.com | 118.107.246.77 | 
 | jssyjj.cn | 45.207.56.47 | 
 | sdvoto.cn | 43.159.201.96 |
+| www.bitpie-io.com | |
+| bitpie-bpe.net | |
 
 # Announcements 公告
 
