@@ -78,7 +78,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | sdvoto.cn | 43.159.201.96 |
 | bitpie-io.com | 103.194.105.243 |
 | bitpie-bpe.net | 38.34.229.198 |
-| kllho.0577ruijin.com | - |
+| kllho.0577ruijing.com | 45.204.126.81 45.204.126.223 |
 
 # Announcements 公告
 
