@@ -79,6 +79,26 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitpie-io.com | 103.194.105.243 |
 | bitpie-bpe.net | 38.34.229.198 |
 | kllho.0577ruijing.com | 45.204.126.81 45.204.126.223 |
+| bitpie.com-wallet.net |  45.204.126.81 45.204.126.223 |
+| bitapie.com | 104.21.41.169 172.67.191.188 |
+| bitapia.com | 104.21.77.57 172.67.204.215 |
+| bitpiena.site | 104.21.81.29 172.67.137.158 |
+| bitapai.com | 172.67.174.252 104.21.31.51 |
+| bltepal.com | 104.21.53.20 172.67.207.199 |
+| bi-tpie8.com | 122.10.11.237 |
+| bitapla.com | 104.21.89.160 172.67.189.154 |
+| bitiepia.com | 104.21.94.88 172.67.221.148 |
+| app-bitpie.com | - |
+| bitepiai.com | 104.21.64.39 172.67.175.235 |
+| biteipia.com | 172.67.146.110 104.21.39.154 |
+| bltepla.com | 172.67.150.4 104.21.29.245 |
+| bitpie-bte.net | 38.34.229.198 |
+| bitpie-bte.com | 38.34.229.198 |
+| bitpieasia.cc | 118.107.246.54 |
+| bitepali.com | 104.21.28.132 172.67.146.52 |
+| bitepail.com | 172.67.157.10 104.21.40.208 |
+| biteple.com | 172.67.154.76 104.21.64.182 |
+
 
 # Announcements 公告
 
