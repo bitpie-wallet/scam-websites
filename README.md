@@ -99,6 +99,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitepail.com | 172.67.157.10 104.21.40.208 |
 | biteple.com | 172.67.154.76 104.21.64.182 |
 | ruantiyedai.com | 160.124.108.95 |
+| bitpie-ab.rip | 172.67.150.39 104.21.30.3 |
 
 
 # Announcements 公告
