@@ -103,7 +103,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | m.doyo.cn | 223.111.21.13 |
 | gbwmall.com | 154.95.156.226 |
 | qvt.yljdkj.com | 107.151.66.55 |
-
+| xingyantongyu.cn | 38.239.74.121 |
 
 # Announcements 公告
 
