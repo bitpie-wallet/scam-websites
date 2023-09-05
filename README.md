@@ -104,6 +104,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | gbwmall.com | 154.95.156.226 |
 | qvt.yljdkj.com | 107.151.66.55 |
 | xingyantongyu.cn | 38.239.74.121 |
+| bitpaa.net | 104.21.48.75 172.67.181.118 |
 
 # Announcements 公告
 
