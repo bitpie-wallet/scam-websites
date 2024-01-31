@@ -106,6 +106,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | xingyantongyu.cn | 38.239.74.121 |
 | bitpaa.net | 104.21.48.75 172.67.181.118 |
 | bitipe.com | 45.91.226.123 |
+| meihuameishu.com | 156.232.230.147 | 
 
 # Announcements 公告
 
