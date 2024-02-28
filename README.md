@@ -108,6 +108,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitipe.com | 45.91.226.123 |
 | meihuameishu.com | 156.232.230.147 | 
 | m.zhiwentiyu.com | 38.239.74.108 |
+| bit1.run | 182.16.39.180 |
 
 # Announcements 公告
 
