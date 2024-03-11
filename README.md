@@ -109,6 +109,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | meihuameishu.com | 156.232.230.147 | 
 | m.zhiwentiyu.com | 38.239.74.108 |
 | bit1.run | 182.16.39.180 |
+| bitpie-ai.com | 172.67.182.207 104.21.18.174 cloudflare |
 
 # Announcements 公告
 
