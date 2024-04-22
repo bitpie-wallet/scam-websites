@@ -110,6 +110,23 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | m.zhiwentiyu.com | 38.239.74.108 |
 | bit1.run | 182.16.39.180 |
 | bitpie-ai.com | 172.67.182.207 104.21.18.174 cloudflare |
+| junhedl.com | - |
+| csboyi.com | 104.21.95.194 172.67.147.84 cloudflare |
+| jstjjk.com | 38.55.203.63 |
+| ahjkjd.com | 38.55.203.38 |
+| cpijl.com | 45.199.89.139 |
+| buuyii.com | 112.121.165.229 |
+| zshifu.cn | 156.232.230.157 |
+| hfgjxx.cn | 45.199.89.134 |
+| forwordland.com | 149.30.224.142 |
+| sbdzp.cn | 104.21.96.3 172.67.150.25 cloudflare |
+| lyzyysxh.cn | 222.186.15.146 |
+| jdzwatcyxgs.com | 206.233.254.175 |
+| psl-invest.com | 156.232.230.144 |
+| cqsdsxh.com | 38.55.203.12 |
+| myrlzyfw.cn | 38.238.149.238 |
+| wmncp.net | 38.239.74.119 |
+| gasysq.com | 38.238.199.198 |
 
 # Announcements 公告
 
