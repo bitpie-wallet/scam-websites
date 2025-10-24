@@ -128,6 +128,9 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | wmncp.net | 38.239.74.119 |
 | gasysq.com | 38.238.199.198 |
 | bitipai.com | 172.67.186.114 104.21.1.5 cloudflare |
+| bitepaij.com | 198.18.193.132 |
+| bitple.cbfghf.com | 198.18.193.188 |
+| bitpieapps.com | 198.18.193.87 |
 
 # Announcements 公告
 
