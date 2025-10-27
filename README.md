@@ -131,6 +131,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitepaij.com | 198.18.193.132 |
 | bitple.cbfghf.com | 198.18.193.188 |
 | bitpieapps.com | 198.18.193.87 |
+| xn--bpw23a08i.cn | - |
 
 # Announcements 公告
 
