@@ -136,6 +136,8 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitkn.app | 198.18.17.47 |
 | bitken.top | 198.18.17.48 |
 | vvwwbitepai.com | 198.18.9.136 |
+| bitpieie.top | 198.18.33.96 |
+| diodesdaili.com | - |
 
 # Announcements 公告
 
