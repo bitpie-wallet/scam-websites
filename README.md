@@ -139,6 +139,8 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitpieie.top | 198.18.33.96 |
 | diodesdaili.com | - |
 | www-bitepai.com | - |
+| bitple.cbfghf.com | - |
+| wwwjxxnzm.com | - |
 
 # Announcements 公告
 
