@@ -141,6 +141,9 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | www-bitepai.com | - |
 | bitple.cbfghf.com | - |
 | wwwjxxnzm.com | - |
+| wap.czjtqz.com | - |
+| sdxilunji.com | - |
+| d1om9gdn3kiql3.cloudfront.net| - |
 
 # Announcements 公告
 
