@@ -146,7 +146,9 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | d1om9gdn3kiql3.cloudfront.net| - |
 | 64wqprg.aefasq.com | - |
 | qxe8cgw.aefasq.com | - |
-| bitpies.cn| - |
+| bitpies.cn| 23.224.238.66 |
+| hndddq.com| - |
+| shwwwl.com| - |
 
 # Announcements 公告
 
