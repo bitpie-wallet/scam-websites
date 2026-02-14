@@ -149,6 +149,12 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitpies.cn| 23.224.238.66 |
 | hndddq.com| - |
 | shwwwl.com| - |
+| ourtemple.net| - |
+| webd7.com| - |
+| keihw.com| - |
+| olgadean.com| - |
+| bitpiepl.cn| - |
+| bitpeijo.cn| - |
 
 # Announcements 公告
 
