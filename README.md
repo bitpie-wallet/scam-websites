@@ -295,8 +295,13 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | mkwebmpengrus.com| - |
 | boledir.com| - |
 | pyggzy.com| - |
-
-
+| bitple.ryjrtty.com| - |
+| btapie.com| - |
+| btpeas.app| - |
+| bitpie-aa.one| - |
+| pyggzy.com| - |
+| bitpie.com.ap2s.top| - |
+| bltplie.com| - |
 
 
 
