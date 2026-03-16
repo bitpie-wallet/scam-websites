@@ -302,6 +302,35 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | pyggzy.com| - |
 | bitpie.com.ap2s.top| - |
 | bltplie.com| - |
+| shqmgzyey.com| - |
+| haikoubieshu.com| - |
+| gxxhmgs.com| - |
+| bitpiefeu.com| - |
+| ssbtwq.com| - |
+| 23.225.236.246| - |
+| 23.225.236.181| - |
+| 23.225.236.30| - |
+| 23.225.236.36| - |
+| zhddjt.com| - |
+| stickerlinedd.com| - |
+| 23.225.230.58| - |
+| wxrha.com| - |
+| chinacart.net| - |
+| 881566.com| - |
+| bitpieplm.com| - |
+| bitpielpe.com| - |
+| 23.225.236.199| - |
+| feiniaoshop.com| - |
+| wzmmmmj.com| - |
+| 23.225.230.40| - |
+| 23.225.230.52| - |
+| 23.225.236.253| - |
+| 23.225.230.33| - |
+| 23.225.230.242| - |
+| 23.225.230.239| - |
+
+
+
 
 
 
