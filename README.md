@@ -551,7 +551,34 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | hd3875.com| 154.89.71.205 |
 | bitupei.com.cn| 154.206.128.231 |
 | bitepaiq.cn| 43.175.130.236 |
-
+| btp1.app| 43.169.25.95 |
+| btp2.app| 43.168.24.141 |
+| btp3.app| 43.174.78.152 |
+| bvitpie.com| 43.168.24.141 |
+| bitpie-bitcoin-wallet.appstor.io| 104.26.0.73 |
+| m.mystudygeek.com| 172.234.24.211 |
+| fsxwhg.com.cn| 156.251.217.169 |
+| bitopie.cn| 154.206.139.66 |
+| bitspie.cn| 154.206.139.66 |
+| btp-bitpie.net| 43.168.24.141 |
+| bitopie.com.cn| 154.206.144.200 |
+| bitpie0.cn| 154.206.155.100 |
+| bitapie.cn| 154.206.139.66 |
+| m.hcjhsb.com| 156.251.216.136 |
+| bitpie3.cn| 154.206.135.36 |
+| zunerguangcs.com| 23.225.253.141 |
+| m.hbcfsjzx.com| 156.251.216.137 |
+| btipie.cn| 154.206.149.247 |
+| shyuesao.com| 156.251.217.190 |
+| bitpieo.cn| 154.206.149.250 |
+| btitpie.cn| 154.206.148.123 |
+| bitepi.cn| 154.206.144.215 |
+| bitepi.net| 154.206.138.215 |
+| slovakcon.com| 172.67.206.131 |
+| ahfsia.com| 23.224.23.254 |
+| bitpies.com.cn| 52.128.237.104 |
+| btp-bitpie.com| 43.175.130.236 |
+| bitpie.rtdth.com| - |
 
 
 
