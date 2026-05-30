@@ -579,6 +579,7 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | bitpies.com.cn| 52.128.237.104 |
 | btp-bitpie.com| 43.175.130.236 |
 | bitpie.rtdth.com| - |
+| hongkong-bitpie.com| 198.18.0.51 |
 
 
 
