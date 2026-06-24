@@ -584,7 +584,17 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | lxdry.com.cn| 198.18.0.153 |
 | bitepie.net.cn| 198.18.0.154 |
 | bitspai.com.cn| 198.18.0.156 |
-
+| hzsqlxxw.org.cn| 104.21.14.91 |
+| qy839.cn| 172.67.198.143 |
+| bitpiw.cn| 154.206.135.58 |
+| 2026.72.chat| 101.72.203.41 |
+| bitpie8.cn| 154.206.148.100 |
+| bitpiez.cn| 43.174.196.236 |
+| bitpiek.cn| 154.206.148.122 |
+| bitpied.cn| 154.206.139.90 |
+| beijingtoplaser.com| 91.110.217.31 |
+| mufycandle.com| 172.67.134.31 |
+| terramites.com| 104.21.89.227 |
 
 
 
