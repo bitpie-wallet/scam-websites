@@ -595,6 +595,29 @@ Here we list all the scam websites targeting Bitpie users we know. Visiting, dow
 | beijingtoplaser.com| 91.110.217.31 |
 | mufycandle.com| 172.67.134.31 |
 | terramites.com| 104.21.89.227 |
+| m.shlpsy.com| 198.18.0.123 |
+| bitypie.com| 198.18.0.125 |
+| m.fsxwhg.com.cn| 198.18.0.122 |
+| m.ymca-xm.org| 198.18.0.124 |
+| sdqmy.com| 198.18.0.126 |
+| bitpiebtc.com| 198.18.0.127 |
+| bitpieeth.com| 198.18.0.128 |
+| amorphous-trans.com| 198.18.0.129 |
+| artcy.org| 198.18.0.133 |
+| al-awwa.com| 198.18.0.130 |
+| btp-bitpie.cn| 198.18.0.132 |
+| bitpiewal.com| 198.18.0.131 |
+| autoibot.com| 198.18.0.135 |
+| jardingr.com| 198.18.0.134 |
+| miaomuhome.com| 198.18.0.137 |
+| bitpieweb.com| 198.18.0.136 |
+| zgywjy.com| 198.18.0.139 |
+| bitipe.com.cn| 198.18.0.141 |
+| hk-bitpie.cc| 198.18.0.142 |
+| bitpiecpb.com| 198.18.0.140 |
+| bitplle.com| 198.18.0.145 |
+| us-bitpie.com| 198.18.0.143 |
+| bitpie-download.com| 198.18.0.144 |
 
 
 
